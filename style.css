@@ -1,0 +1,155 @@
+body{
+    background-color: #f6f8f9;
+    margin: 0px 0px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    vertical-align: middle;
+}
+
+
+header img{
+    height: 70px;
+    vertical-align: middle;
+    padding: 10px 10px 10px 20px;
+    
+}
+
+header span{
+    font-weight: 700;
+    font-size: 50px;
+    vertical-align: middle;
+
+}
+section{
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    height: 65px;
+}
+.addtask{
+    margin-left: 5%;
+    background-color: #47ADF1;
+    border-color: #47ADF1;
+    border-radius: 5px;
+    border-style: solid;
+    color: white; 
+    font-size: 20px; 
+}
+.addsection{
+        background-color: #fff;
+        border-color: #C5CBD0;
+        border-radius: 5px;
+        border-style: solid;
+        color: #C5CBD0;
+        font-size: 20px;
+}
+button{
+    padding: 5px 10px 5px 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    vertical-align: middle;
+}
+main{
+    margin-top: 2px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    padding-top: 15px;
+    height: 540px;
+}
+
+li{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+ul{
+    list-style-type: none;
+}
+div{
+    font-size: 18px;
+    margin-bottom: 20px; 
+    margin-left: 5px;
+}
+.checkmark{
+    font-size: 10px;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #7ccab7;
+    color: #7ccab7;
+    border-radius:50%;
+    margin-right: 10px;
+    font-weight: 700;
+    
+}
+.crossmark{
+    font-size: 10px;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid red;
+    color: red;
+    border-radius:50%;
+    margin-right: 10px;
+    font-weight: 700;
+}
+.content{
+    margin-bottom: 20px;
+}
+.editorial{
+    background-color:#45ABEA;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+
+}
+.editorial{
+    background-color:#45ABEA;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
+.q1goals{
+    background-color:#9C72E4;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
+.recruiting{
+    background-color:#64C0A9;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
+.mobile{
+    background-color:#F29E33;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
+.website{
+    background-color:#D863A1;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
+.sales{
+    background-color:#B0C926;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 7px 12px ;
+}
